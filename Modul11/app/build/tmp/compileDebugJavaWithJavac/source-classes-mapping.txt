@@ -1,0 +1,2 @@
+id/ibnu_19104020/modul11/BuildConfig.java
+ id.ibnu_19104020.modul11.BuildConfig
